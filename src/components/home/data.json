@@ -1,0 +1,32 @@
+[
+    {
+        "product" : "Smartphone",
+        "price" : 600,
+        "id" : 1
+    },
+    {
+        "product" : "Laptop",
+        "price" : 1200,
+        "id" : 2
+    },
+    {
+        "product" : "Tablet",
+        "price" : 400,
+        "id" : 3
+    },
+    {
+        "product" : "Smartwatch",
+        "price" : 300,
+        "id" : 4
+    },
+    {
+        "product" : "Audifonos",
+        "price" : 150,
+        "id" : 5
+    },
+    {
+        "product": "Cámara",
+        "price" : 1000,
+        "id" : 6
+    }
+]
